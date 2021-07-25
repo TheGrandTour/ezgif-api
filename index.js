@@ -2,7 +2,6 @@ let FormData = require('form-data');
 let FS = require('fs');
 let Axios = require('axios');
 let Cheerio = require('cheerio');
-let Dlurl = require('dlurl');
 
 let baseURL = 'https://ezgif.com';
 
